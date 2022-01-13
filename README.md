@@ -4,7 +4,7 @@
 
 ### Léo Pinchon  👋
 
--💼 En formation à la Wild Code School spécialité JavaScript</p>
+-💼 Formé en autodidacte et maintnenant à la Wild Code School, mon but est de progresser dans le monde du code</p>
 
 
 <div align="center">
